@@ -1,4 +1,4 @@
-dev.prog=java
+dev.prog=kotlin
 dev.prog1=c++
 
 os.name=linux
