@@ -1,4 +1,4 @@
-dev.prog=java
+dev.prog=scala
 dev.prog1=c++
 
 os.name=linux
