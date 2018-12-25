@@ -1,1 +1,2 @@
 dev.prog=java
+dev.prog1=c++
