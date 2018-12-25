@@ -1,3 +1,3 @@
-dev.prog=kotlin
+dev.prog=java
 dev.prog1=c++
 os.name=linux
