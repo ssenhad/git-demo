@@ -2,3 +2,4 @@ dev.prog=java
 dev.prog1=c++
 os.name=linux
 scm.name=subversion
+browser.name=mozilla
