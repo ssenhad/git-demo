@@ -3,3 +3,4 @@ dev.prog1=c++
 os.name=linux
 scm.name=subversion
 browser.name=google chrome
+web.service.type=rest
